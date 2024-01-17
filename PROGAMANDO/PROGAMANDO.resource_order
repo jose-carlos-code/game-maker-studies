@@ -19,5 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"obj_espada","order":1,"path":"objects/obj_espada/obj_espada.yy",},
     {"name":"spr_espada_fi","order":1,"path":"sprites/spr_espada_fi/spr_espada_fi.yy",},
+    {"name":"spr_lua","order":2,"path":"sprites/spr_lua/spr_lua.yy",},
+    {"name":"obj_lua","order":2,"path":"objects/obj_lua/obj_lua.yy",},
   ],
 }

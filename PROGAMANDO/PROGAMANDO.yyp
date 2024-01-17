@@ -38,7 +38,9 @@
     {"id":{"name":"obj_teste","path":"objects/obj_teste/obj_teste.yy",},},
     {"id":{"name":"notas","path":"notes/notas/notas.yy",},},
     {"id":{"name":"spr_espada_fi","path":"sprites/spr_espada_fi/spr_espada_fi.yy",},},
+    {"id":{"name":"spr_lua","path":"sprites/spr_lua/spr_lua.yy",},},
     {"id":{"name":"spr_personagem","path":"sprites/spr_personagem/spr_personagem.yy",},},
+    {"id":{"name":"obj_lua","path":"objects/obj_lua/obj_lua.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
