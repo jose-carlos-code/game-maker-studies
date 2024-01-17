@@ -36,6 +36,6 @@ operador not -> ! ou not
 caso = "dale meu parceiro";
 
 global.nova = "variável global";
-var meu_nome = "olá";
+var _meu_nome = "olá";
 
 show_message(caso);
