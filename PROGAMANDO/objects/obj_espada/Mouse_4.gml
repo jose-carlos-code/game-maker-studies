@@ -5,6 +5,3 @@
 
 
 show_message(global.nova);
-
-
-

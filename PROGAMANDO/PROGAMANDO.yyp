@@ -35,6 +35,7 @@
   },
   "resources": [
     {"id":{"name":"obj_espada","path":"objects/obj_espada/obj_espada.yy",},},
+    {"id":{"name":"scr_inicializa","path":"scripts/scr_inicializa/scr_inicializa.yy",},},
     {"id":{"name":"obj_teste","path":"objects/obj_teste/obj_teste.yy",},},
     {"id":{"name":"notas","path":"notes/notas/notas.yy",},},
     {"id":{"name":"spr_espada_fi","path":"sprites/spr_espada_fi/spr_espada_fi.yy",},},
