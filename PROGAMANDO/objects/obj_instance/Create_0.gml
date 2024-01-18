@@ -2,4 +2,5 @@
 // Você pode escrever seu código neste editor
 
 
-show_message(global.nova);
+
+image_blend = c_blue;

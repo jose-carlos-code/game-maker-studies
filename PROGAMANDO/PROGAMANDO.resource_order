@@ -21,5 +21,7 @@
     {"name":"spr_espada_fi","order":1,"path":"sprites/spr_espada_fi/spr_espada_fi.yy",},
     {"name":"spr_lua","order":2,"path":"sprites/spr_lua/spr_lua.yy",},
     {"name":"obj_lua","order":2,"path":"objects/obj_lua/obj_lua.yy",},
+    {"name":"obj_instance","order":3,"path":"objects/obj_instance/obj_instance.yy",},
+    {"name":"spr_instance","order":3,"path":"sprites/spr_instance/spr_instance.yy",},
   ],
 }

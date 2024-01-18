@@ -42,6 +42,8 @@
     {"id":{"name":"spr_lua","path":"sprites/spr_lua/spr_lua.yy",},},
     {"id":{"name":"spr_personagem","path":"sprites/spr_personagem/spr_personagem.yy",},},
     {"id":{"name":"obj_lua","path":"objects/obj_lua/obj_lua.yy",},},
+    {"id":{"name":"obj_instance","path":"objects/obj_instance/obj_instance.yy",},},
+    {"id":{"name":"spr_instance","path":"sprites/spr_instance/spr_instance.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [

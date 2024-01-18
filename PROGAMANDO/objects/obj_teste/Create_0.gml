@@ -33,7 +33,7 @@ show_message(pergunta);
 operador not -> ! ou not
 */
 
-show_message("você tem um total de " + global.pontos)
+/*show_message("você tem um total de " + global.pontos) */
 
 show_message("o tipo do meu carro é " + global.tipo_carro);
 
@@ -42,4 +42,4 @@ caso = "dale meu parceiro";
 global.nova = "variável global";
 var _meu_nome = "olá";
 
-show_message(caso);
+show_message(caso);	
