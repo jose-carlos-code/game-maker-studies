@@ -10,6 +10,6 @@ global.lua = "minguante";
 global.tipo_carro = "hatch";
 
 
-show_message("a lua hoje está " + global.lua);
+//show_message("a lua hoje está " + global.lua);
 
 

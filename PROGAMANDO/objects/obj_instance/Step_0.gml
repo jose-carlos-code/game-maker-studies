@@ -15,7 +15,10 @@ if(global.carro == id)
 */
 
 //SE o X dele passar de 1408, então eu mando ele para o meio da room
-if( x >= 1408){
+if( x >= 1408 or x <= -6 or y <= -9 or y >= 777)
+{
 	x = 608;
-
+	y = 400;
 }
+
+show_debug_message(alarm[0]);
