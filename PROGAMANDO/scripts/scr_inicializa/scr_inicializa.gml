@@ -9,7 +9,8 @@ global.pontos = 1;
 //estou iniciando a variável com ninguem
 //noone quer dizer no one, que é ninguém.... mais ou menos kssksks
 //global.carro = noone;
-global.carro = inst_4FDDAA91
+//global.carro = inst_4FDDAA91;
 
+global.texto = "";
 
 show_message("testando 123 ");

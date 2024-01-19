@@ -8,4 +8,9 @@
 
 
 draw_self();
-draw_text(x, y, "meu texto"); 
+//draw_text(x, y, "meu texto"); 
+
+if(mover == true){
+	draw_text(x, y, "Eu posso me mover " + string(mover));
+
+}
