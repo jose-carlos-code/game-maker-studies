@@ -1,6 +1,6 @@
 {
   "$GMProject":"",
-  "%Name":"PROGAMANDO",
+  "%Name":"pong-NOVO",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
@@ -32,29 +32,14 @@
   "MetaData":{
     "IDEVersion":"2024.4.1.152",
   },
-  "name":"PROGAMANDO",
+  "name":"pong-NOVO",
   "resources":[
-    {"id":{"name":"notas","path":"notes/notas/notas.yy",},},
-    {"id":{"name":"obj_espada","path":"objects/obj_espada/obj_espada.yy",},},
-    {"id":{"name":"obj_instance","path":"objects/obj_instance/obj_instance.yy",},},
-    {"id":{"name":"obj_lua","path":"objects/obj_lua/obj_lua.yy",},},
-    {"id":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},},
-    {"id":{"name":"obj_TESTE_rm_02","path":"objects/obj_TESTE_rm_02/obj_TESTE_rm_02.yy",},},
-    {"id":{"name":"obj_teste","path":"objects/obj_teste/obj_teste.yy",},},
-    {"id":{"name":"rm_01","path":"rooms/rm_01/rm_01.yy",},},
-    {"id":{"name":"rm_02","path":"rooms/rm_02/rm_02.yy",},},
-    {"id":{"name":"scr_inicializa","path":"scripts/scr_inicializa/scr_inicializa.yy",},},
-    {"id":{"name":"spr_espada_fi","path":"sprites/spr_espada_fi/spr_espada_fi.yy",},},
-    {"id":{"name":"spr_instance","path":"sprites/spr_instance/spr_instance.yy",},},
-    {"id":{"name":"spr_kaue","path":"sprites/spr_kaue/spr_kaue.yy",},},
-    {"id":{"name":"spr_lua","path":"sprites/spr_lua/spr_lua.yy",},},
-    {"id":{"name":"spr_personagem","path":"sprites/spr_personagem/spr_personagem.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_02","path":"rooms/rm_02/rm_02.yy",},},
-    {"roomId":{"name":"rm_01","path":"rooms/rm_01/rm_01.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
