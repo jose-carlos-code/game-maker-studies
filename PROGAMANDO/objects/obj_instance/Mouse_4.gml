@@ -6,6 +6,6 @@
 global.pontos++;
 
 //avisando para o global.texto que o texto dele é meu nome
-global.texto = nome;
+global.texto = nome; 
 
 mover = true;
