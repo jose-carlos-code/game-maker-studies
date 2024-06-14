@@ -1,11 +1,11 @@
 {
-  "FolderOrderSettings": [],
-  "ResourceOrderSettings": [
-    {"name":"spr_padle","order":1,"path":"sprites/spr_padle/spr_padle.yy",},
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"obj_bola","order":1,"path":"objects/obj_bola/obj_bola.yy",},
+    {"name":"obj_colisor","order":2,"path":"objects/obj_colisor/obj_colisor.yy",},
     {"name":"obj_raquete2","order":3,"path":"objects/obj_raquete2/obj_raquete2.yy",},
     {"name":"spr_background","order":2,"path":"sprites/spr_background/spr_background.yy",},
     {"name":"spr_colisor","order":3,"path":"sprites/spr_colisor/spr_colisor.yy",},
-    {"name":"obj_colisor","order":2,"path":"objects/obj_colisor/obj_colisor.yy",},
-    {"name":"obj_bola","order":1,"path":"objects/obj_bola/obj_bola.yy",},
+    {"name":"spr_padle","order":1,"path":"sprites/spr_padle/spr_padle.yy",},
   ],
 }
