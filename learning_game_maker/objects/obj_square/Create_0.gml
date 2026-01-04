@@ -1,0 +1,1 @@
+show_message("Objeto criado com sucesso!");
