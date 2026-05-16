@@ -1,8 +1,8 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"PROGAMANDO",
   "AudioGroups":[
-    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -26,11 +26,12 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.14.2.213",
   },
   "name":"PROGAMANDO",
   "resources":[
@@ -38,6 +39,7 @@
     {"id":{"name":"obj_espada","path":"objects/obj_espada/obj_espada.yy",},},
     {"id":{"name":"obj_instance","path":"objects/obj_instance/obj_instance.yy",},},
     {"id":{"name":"obj_lua","path":"objects/obj_lua/obj_lua.yy",},},
+    {"id":{"name":"obj_mj","path":"objects/obj_mj/obj_mj.yy",},},
     {"id":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},},
     {"id":{"name":"obj_TESTE_rm_02","path":"objects/obj_TESTE_rm_02/obj_TESTE_rm_02.yy",},},
     {"id":{"name":"obj_teste","path":"objects/obj_teste/obj_teste.yy",},},
@@ -48,6 +50,7 @@
     {"id":{"name":"spr_instance","path":"sprites/spr_instance/spr_instance.yy",},},
     {"id":{"name":"spr_kaue","path":"sprites/spr_kaue/spr_kaue.yy",},},
     {"id":{"name":"spr_lua","path":"sprites/spr_lua/spr_lua.yy",},},
+    {"id":{"name":"spr_mj","path":"sprites/spr_mj/spr_mj.yy",},},
     {"id":{"name":"spr_personagem","path":"sprites/spr_personagem/spr_personagem.yy",},},
   ],
   "resourceType":"GMProject",

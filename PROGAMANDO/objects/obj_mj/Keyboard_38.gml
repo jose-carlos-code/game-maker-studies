@@ -1,0 +1,7 @@
+if(mover){
+
+y-=speed;
+
+}
+
+

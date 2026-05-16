@@ -20,6 +20,7 @@
     {"name":"obj_espada","order":1,"path":"objects/obj_espada/obj_espada.yy",},
     {"name":"obj_instance","order":3,"path":"objects/obj_instance/obj_instance.yy",},
     {"name":"obj_lua","order":2,"path":"objects/obj_lua/obj_lua.yy",},
+    {"name":"obj_mj","order":6,"path":"objects/obj_mj/obj_mj.yy",},
     {"name":"obj_pontos","order":4,"path":"objects/obj_pontos/obj_pontos.yy",},
     {"name":"obj_TESTE_rm_02","order":5,"path":"objects/obj_TESTE_rm_02/obj_TESTE_rm_02.yy",},
     {"name":"rm_02","order":1,"path":"rooms/rm_02/rm_02.yy",},
@@ -27,5 +28,6 @@
     {"name":"spr_instance","order":3,"path":"sprites/spr_instance/spr_instance.yy",},
     {"name":"spr_kaue","order":4,"path":"sprites/spr_kaue/spr_kaue.yy",},
     {"name":"spr_lua","order":2,"path":"sprites/spr_lua/spr_lua.yy",},
+    {"name":"spr_mj","order":5,"path":"sprites/spr_mj/spr_mj.yy",},
   ],
 }
